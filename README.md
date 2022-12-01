@@ -385,5 +385,6 @@ sns.heatmap(df2.corr(),cmap="YlGnBu",annot=True)
 ![](img/50.JPG)
 
 ![](img/51.JPG)
+
 ## Result
 Thus we have successfully visualized the dataset using libraries like pandas, seaborn and so on. 
