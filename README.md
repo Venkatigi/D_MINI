@@ -329,7 +329,7 @@ plt.figure(figsize=(16,10))
 sns.heatmap(df2.corr(),cmap="YlGnBu",annot=True)
 ```
 ## Output
-![](1.JPG)
+![](img/1.JPG)
 ![](img/2.JPG)
 ![](img/3.JPG)
 ![](img/4.JPG)
